@@ -31,7 +31,7 @@ A modern, responsive web application to explore GitHub user profiles with a beau
 ## 📁 Project Structure
 
 ```
-Async/Part 1/
+/
 ├── index.html      # Main HTML file with UI structure
 ├── Async.js        # JavaScript logic and API calls
 └── README.md       # Project documentation
@@ -42,7 +42,6 @@ Async/Part 1/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Async/Part\ 1
 ```
 
 2. Open `index.html` in your browser or use a local server:
